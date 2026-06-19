@@ -38,7 +38,7 @@ Para assegurar o domínio completo dos fundamentos da Web e respeitar as diretri
 
 ## 🎨 Design & Prototipagem
 Toda a experiência de interface (UI) e fluxo do usuário (UX) foram meticulosamente desenhados no Figma antes da escrita do primeiro bloco de código.
-📐 **[Acesse o Protótipo no Figma](https://www.figma.com/)**
+📐 **[Acesse o Protótipo no Figma](https://www.figma.com/design/bvDmjQAD2cFc7UkN8LvRuG/Portif%C3%B3lio?node-id=9-11&p=f&t=03bVoj1AunsrPcJb-0)**
 
 ---
 
