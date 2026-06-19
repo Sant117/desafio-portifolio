@@ -16,7 +16,7 @@ O layout foi planejado seguindo uma estética minimalista *dark mode* de alto co
 
 ## 🔗 Aplicação em Produção
 O portfólio já está publicado e otimizado para navegação:
-✨ **[Acesse o Portfólio em Produção](portifolio-3omr0g1pq-sant117.vercel.app)**
+✨ **[Acesse o Portfólio em Produção](https://portifolio-rouge-ten-77.vercel.app/)**
 
 ---
 
