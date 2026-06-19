@@ -16,7 +16,7 @@ O layout foi planejado seguindo uma estética minimalista *dark mode* de alto co
 
 ## 🔗 Aplicação em Produção
 O portfólio já está publicado e otimizado para navegação:
-✨ **[Acesse o Portfólio em Produção](https://sant117.github.io/desafio-portifolio/)**
+✨ **[Acesse o Portfólio em Produção](portifolio-3omr0g1pq-sant117.vercel.app)**
 
 ---
 
