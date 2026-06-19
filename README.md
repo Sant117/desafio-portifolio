@@ -47,13 +47,13 @@ Toda a experiência de interface (UI) e fluxo do usuário (UX) foram meticulosam
 Aqui estão os registros visuais do portfólio em funcionamento:
 
 ### 🖥️ Visão Geral (Desktop)
-![Visão Geral do Portfólio](assets/print-desktop.png)
+![Visão Geral do Portfólio](./assets/print-desktop.png)
 
-### 📱 Layout Responsivo (Mobile)
-![Versão Mobile](assets/print-responsivo.png)
+### 📱 Layout
+![Versão Mobile](./assets/print-responsivo.png)
 
 ### 📩 Seção de Contato
-![Formulário de Contato](assets/print-contato.png)
+![Formulário de Contato](./assets/print-contato.png)
 
 ---
 
